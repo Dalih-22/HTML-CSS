@@ -1,0 +1,23 @@
+@charset "UTF-8"
+body{
+    background-color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(38, 80, 82);
+}
+div{
+    background-color: aliceblue;
+    border-style: dotted;
+    border-radius: 30px;
+    margin: auto;
+    padding: 10px;
+    width: 200px;
+}
+div:hover{
+    background-color: black;
+    color: white;
+}
+div:active{
+    background-color: gray;
+}

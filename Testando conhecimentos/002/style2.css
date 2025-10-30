@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
+body{
+background-image: linear-gradient(to right,  #b91e59ee, #f0005ca8);
+}
+main{
+    text-align: center;
+    background-color: white;
+    border-radius: 20px;
+    margin: auto;
+    padding: 10px;
+}
+main>h1{
+      font-family: Pixelify Sans, sans-serif;
+}
+footer{
+    text-align: center;
+    color: white;
+}

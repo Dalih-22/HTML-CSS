@@ -1,0 +1,17 @@
+    
+       body {
+background-color: aliceblue;
+font-family: arial;
+font-size: 15px;
+        }
+        h1{
+            color: rgb(44, 70, 61);
+            background-color: antiquewhite;
+        }
+        h2{
+            color: rgb(43, 43, 77);
+        }
+        p{
+            text-align: justify;
+        }
+        

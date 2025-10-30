@@ -1,0 +1,32 @@
+@charset "UTF-8";
+body{
+    background-color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+h1{
+    color: rgb(33, 52, 87);
+}
+h1#principal{
+    text-align: center;
+background-color: white;
+width: 800px;
+padding: 10px;
+border-style: dotted;
+border-color: gray;
+margin: auto;
+box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.356);
+}
+h2{
+    color: rgb(45, 69, 114);
+}
+.basico{
+border-bottom-style: dotted;
+border-color: gray;
+color: rgb(95, 76, 51);
+}
+.avançado{
+    border-bottom-style: dotted;
+    border-color: gray;
+    color: rgb(66, 48, 24);
+}

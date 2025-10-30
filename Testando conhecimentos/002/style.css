@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
+body{
+background-image: linear-gradient(to right,  #b91e59ee, #f0005ca8);
+}
+header{
+    margin: auto auto 20px auto;
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+header>a{
+    color: white;
+    background-color: rgb(100, 48, 70);
+    padding: 5px 100px;
+    margin: auto;
+    border: 2px dotted;
+    border-radius: 10px;
+    box-shadow: 5px 5px white;
+}
+header>a:hover{
+    background-color: rgb(71, 33, 49);
+}
+header>h1{
+    font-family: Pixelify Sans, sans-serif;
+}
+main{
+    background-color: white;
+    padding: 0.5px 20px 20px 20px;
+    margin: auto;
+border-radius: 20px;
+text-align: justify;
+}
+img{
+    border-radius: 20px;
+    border-style: dotted;
+    box-shadow: 10px 10px rgba(128, 128, 128, 0.603);
+}
+footer{
+    text-align: right;
+    padding: 5px;
+    margin: 5px auto 5px auto;
+}
+footer>a{
+    color: white;
+    text-decoration: none;
+}
+footer>a:hover{
+    color: lightpink;
+}
